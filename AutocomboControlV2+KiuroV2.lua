@@ -4,7 +4,7 @@ local esperaGeral = 1          -- REDUZIDO PARA 1 SEGUNDO
 local delayEquipar = 0.3       -- Troca de slot ultra rápida
 
 -- Variáveis de Controle
-_G.AutoFarmAtivo = false
+_G.AutoFarmAtivo = true
 local ultimoZ_Fruta = 0
 
 -- Criando a Interface (GUI) - Botão 20x20 Redondo
